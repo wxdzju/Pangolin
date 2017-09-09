@@ -13,11 +13,17 @@ https://github.com/stevenlovegrove/Pangolin
  * (deb) sudo apt-get install libglew-dev
  * (mac) sudo port install glew
 
-* search the all packages for glew
-* $ apt-cache search glew
-* install these packages
-* sudo apt-get install libglew-dbg libglew-dev libglew1.10 libglewmx-dbg libglewmx-dev libglewmx1.10 glew-utils
 
+### search the all packages for glew ###
+
+$ apt-cache search glew
+
+
+### install these packages ###
+
+$ sudo apt-get install libglew-dbg libglew-dev libglew1.10 libglewmx-dbg libglewmx-dev libglewmx1.10 glew-utils
+
+### Cmake Dependencies ###
 
 * CMake (for build environment)
  * (win) http://www.cmake.org/cmake/resources/software.html

@@ -14,12 +14,12 @@ https://github.com/stevenlovegrove/Pangolin
  * (mac) sudo port install glew
 
 
-### search the all packages for glew ###
+### Search the all packages for glew ###
 
 $ apt-cache search glew
 
 
-### install these packages ###
+### Install these packages ###
 
 $ sudo apt-get install libglew-dbg libglew-dev libglew1.10 libglewmx-dbg libglewmx-dev libglewmx1.10 glew-utils
 

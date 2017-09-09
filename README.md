@@ -1,10 +1,6 @@
 This is for personal use. If need, please go to the following website:
 
-
-Find the latest version on [Github](http://github.com/stevenlovegrove/Pangolin):
-
-```
-git clone https://github.com/stevenlovegrove/Pangolin.git
+https://github.com/stevenlovegrove/Pangolin
 
 ### Required Dependencies ###
 
@@ -58,11 +54,14 @@ git clone https://github.com/stevenlovegrove/Pangolin.git
 
 ## Building ##
 
-```
 git clone https://github.com/stevenlovegrove/Pangolin.git
 cd Pangolin
+
 mkdir build
+
 cd build
+
 cmake ..
+
 cmake --build .
 
